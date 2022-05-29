@@ -111,7 +111,7 @@ h3 {
 /*-------------[ containers ]-------------*/
 
 .wrapper {
-    min-height: 95vh;
+    min-height: 95vw;
     max-width: 950px;
     margin: 0 auto;    
 }
